@@ -1,6 +1,6 @@
 {
-  "name": "nest-neo4j",
-  "version": "0.1.4",
+  "name": "@ruturaj-roxiler/nest-neo4j",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.js",
@@ -13,7 +13,7 @@
     "url": "git+https://github.com/adam-cowley/nest-neo4j.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ruturaj More <ruturaj.more@roxiler.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/adam-cowley/nest-neo4j/issues"
