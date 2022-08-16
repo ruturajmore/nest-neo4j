@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adam-cowley/nest-neo4j.git"
+    "url": "git+https://github.com/ruturajmore/nest-neo4j.git"
   },
   "keywords": [],
   "author": "Ruturaj More <ruturaj.more@roxiler.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adam-cowley/nest-neo4j/issues"
+    "url": "https://github.com/ruturajmore/nest-neo4j/issues"
   },
-  "homepage": "https://github.com/adam-cowley/nest-neo4j#readme",
+  "homepage": "https://github.com/ruturajmore/nest-neo4j#readme",
   "dependencies": {
     "@nest/core": "^4.5.4",
     "@nestjs/common": "^7.6.18",
